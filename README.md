@@ -123,8 +123,14 @@ I'm Kazi Fardin Islam Abir, a software engineer with a solid foundation in backe
   </a>
 </div>
 
+<br clear="both"> 
 
+- 🌱 I'm actively expanding my expertise in distributed system architecture, and AI-powered solutions
+- 💬 Ask me about microservices, event driven design, payments solutions, and performance testing
+- 👯 Looking to collaborate on projects that aim to solve complex real-world problems
+- ⚡ I like to travel and explore new places, cuisines, and cultures in my free time
 
+<br clear="both"> 
 
 
 
