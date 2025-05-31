@@ -11,6 +11,7 @@ I'm Kazi Fardin Islam Abir, a software engineer with a solid foundation in backe
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fardinabir&" height="150" alt="fardinabir" />
 </div>
 
+
 ###
 
 ## 🚀 Skills and Tools   
@@ -97,10 +98,7 @@ I'm Kazi Fardin Islam Abir, a software engineer with a solid foundation in backe
 <br clear="both"> 
 
 
-
 <img src="https://raw.githubusercontent.com/fardinabir/fardinabir/output/snake.svg" alt="Snake animation" />
-
-
   
 ## 📫 Connect with me
 
@@ -134,5 +132,21 @@ I'm Kazi Fardin Islam Abir, a software engineer with a solid foundation in backe
 
 <br clear="both"> 
 
+<div align="center">
+  
+<img height="195" width="1000" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fardinabir&theme=solarized_dark" />
+<img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fardinabir&theme=solarized_dark" />
+<img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fardinabir&theme=solarized_dark" />
+<img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fardinabir&theme=solarized_dark" />
+<img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fardinabir&theme=solarized_dark&utcOffset=8" />
+<img height="240" src="https://github-readme-activity-graph.vercel.app/graph?username=fardinabir&bg_color=073642&color=1a73e8&line=859900&point=da5b0b&area=true&hide_border=true&days=60" />
+</div>
 
+<br clear="both"> 
+<br clear="both"> 
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=fardinabir&base=1998&color=brightgreen" />
+</div>
+
+<br clear="both"> 
